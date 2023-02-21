@@ -12,6 +12,10 @@
     background-color: #cde1fe;
 }
 
+.card{
+    background: linear-gradient(to right, #000046, #1cb5e0)
+}
+
 section{
     padding-top:5rem;
 }
